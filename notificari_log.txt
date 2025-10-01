@@ -1,0 +1,31 @@
+2025-05-15T17:07:07.802349600 - EMAIL: Ai transferat suma de 58.477047 EUR (€) in contul titularului Cozma cu iban-ul RO25BRC0000000000000003
+2025-05-15T17:08:51.202769900 - EMAIL: Ai transferat suma de 441.0 EUR (€) in contul titularului Filimon cu iban-ul RO25BRC0000000000000001
+2025-05-15T17:31:31.262554400 - EMAIL: Ai plătit factura către Orange în valoare de 300.0 EUR (€), din contul cu IBAN RO25BRC0000000000000001
+2025-05-15T18:40:50.305439600 - EMAIL: Ai plătit factura către Netflix în valoare de 10.0 RON (Lei), din contul cu IBAN RO25BRC0000000000000001
+2025-05-15T18:43:55.987728400 - EMAIL: Ai depus suma de 213.0 RON (Lei) in contul cu iban-ul RO25BRC0000000000000001
+2025-05-20T17:41:10.685618500 - EMAIL: Ai depus suma de 19.85 EUR (€) in contul cu iban-ul RO25BRC0000000000000001
+2025-05-20T17:43:40.879888800 - EMAIL: Ai transferat suma de 668.1139 RON (Lei) in contul titularului Ungureanu cu iban-ul RO25BRC0000000000000001
+2025-05-20T21:58:47.412710600 - EMAIL: Ai depus suma de 100.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000001
+2025-05-23T19:04:44.042492400 - EMAIL: Ai depus suma de 100.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000001
+2025-05-23T19:24:50.068123900 - EMAIL: Ai depus suma de 564.4945 USD ($) in contul cu iban-ul RO25BRC0000000000000002
+2025-05-28T19:56:51.623056300 - EMAIL: Ai depus suma de 100.0 RON (Lei) in contul cu iban-ul RO25BRC0000000000000015
+2025-05-28T20:01:56.341844500 - EMAIL: Ai depus suma de 1000.0 USD ($) in contul cu iban-ul RO25BRC0000000000000035
+2025-05-28T20:05:09.935657800 - EMAIL: Ai depus suma de 100.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000038
+2025-05-28T20:14:31.981700500 - EMAIL: Ai depus suma de 100.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000002
+2025-05-28T20:58:04.842965100 - EMAIL: Ai depus suma de 100.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000003
+2025-05-28T22:09:58.913124400 - EMAIL: Ai plătit factura către Netflix în valoare de 10.0 EUR (€), din contul cu IBAN RO25BRC0000000000000001
+2025-05-28T22:10:24.228103800 - EMAIL: Ai plătit factura către Netflix în valoare de 10.0 EUR (€), din contul cu IBAN RO25BRC0000000000000001
+2025-05-28T22:11:01.554626900 - EMAIL: Ai depus suma de 2000.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000011
+2025-05-28T22:16:51.612109500 - SMS: Ai plătit factura către netflix în valoare de 10.121238 RON (Lei), din contul cu IBAN RO25BRC0000000000000008
+2025-05-30T18:02:52.803985600 - SMS: Ai plătit factura către Netflix în valoare de 10.0 EUR (€), din contul cu IBAN RO25BRC0000000000000004
+2025-05-30T18:03:15.194014400 - SMS: Ai plătit factura către Netflix în valoare de 10.0 EUR (€), din contul cu IBAN RO25BRC0000000000000004
+2025-05-30T18:07:49.136847800 - EMAIL: Ai depus suma de 61.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000066
+2025-05-31T12:17:55.188943900 - SMS: Ai plătit factura către Netflix în valoare de 10.0 RON (Lei), din contul cu IBAN RO25BRC0000000000000007
+2025-05-31T12:21:14.209709300 - EMAIL: Ai plătit factura către Nefflix în valoare de 10.0 RON (Lei), din contul cu IBAN RO25BRC0000000000000001
+2025-05-31T12:22:14.028193500 - SMS: Ai plătit factura către netflix în valoare de 10.0 RON (Lei), din contul cu IBAN RO25BRC0000000000000007
+2025-05-31T12:34:08.650117600 - SMS: Ai plătit factura către Netflix în valoare de 10.0 RON (Lei), din contul cu IBAN RO25BRC0000000000000007
+2025-05-31T14:31:10.069955900 - EMAIL: Ai depus suma de 10000.0 EUR (€) in contul cu iban-ul RO25BRC0000000000000003
+2025-06-01T19:47:35.174316900 - EMAIL: Ai depus suma de 197.579 EUR (€) in contul cu iban-ul RO25BRC0000000000000003
+2025-06-04T17:53:00.508288200 - EMAIL: Ai depus suma de 197.693 EUR (€) in contul cu iban-ul RO25BRC0000000000000003
+2025-10-01T16:31:20.775382300 - EMAIL: Ai transferat suma de 500.0 EUR (€) in contul titularului Filimon cu iban-ul RO25BRC0000000000000020
+2025-10-01T16:35:59.922792600 - EMAIL: Ai plătit factura către NETFLIX în valoare de 20.0 EUR (€), din contul cu IBAN RO25BRC0000000000000037
